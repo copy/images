@@ -1,5 +1,5 @@
 **Note: Github isn't a good place to store disk images, this repo isn't
-updated. You can download the images here: https://copy.sh/v86/images/**
+updated. You can download the images here: https://i.copy.sh/images/**
 
 Disk Images
 =
