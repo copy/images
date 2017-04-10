@@ -16,6 +16,6 @@ Sources
   image can also be found here: http://wiki.qemu.org/download/linux-0.2.img.bz2
 - Windows 1.01: http://vetusware.com/ (can't remember exact link)
 - Sol OS: http://www.oby.ro/os/
-- Nemizida: http://coderaiser.github.com/nemizida
+- Nemizida: http://coderaiser.github.io/nemesis/
 - Windows 98: https://winworldpc.com/
 - Oberon: https://lists.inf.ethz.ch/pipermail/oberon/2013/006844.html
