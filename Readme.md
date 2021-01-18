@@ -1,10 +1,9 @@
-**Note: Github isn't a good place to store disk images, this repo isn't
-updated. You can download the images here: https://i.copy.sh/images/**
+**Note: Github isn't a good place to store disk images, this repo isn't updated. See below for sources.**
 
 Disk Images
 =
 
-A bunch of (small) images, that work in the emulator.
+A bunch of (small) images, that work in [v86](https://github.com/copy/v86).
 
 Sources
 -
@@ -12,10 +11,19 @@ Sources
 - KolibriOS: http://kolibrios.org/en/download
 - FreeDOS: http://www.freedos.org/
 - FreeDos software: http://www.freedos.org/software/ and http://www.pouet.net/prodlist.php
-- Linux: Self compiled Kernel and [Busybox](http://www.busybox.net/). A working
-  image can also be found here: http://wiki.qemu.org/download/linux-0.2.img.bz2
-- Windows 1.01: http://vetusware.com/ (can't remember exact link)
+- Linux:
+  - Buildroot: https://buildroot.uclibc.org/
+  - Arch Linux (32-bit): https://www.archlinux32.org/download/, built using [automated script](https://github.com/copy/v86/blob/069ea8e/docs/archlinux.md)
+  - Damn Small Linux: http://www.damnsmalllinux.org/download.html
+- Windows 1.01: http://vetusware.com/
 - Sol OS: http://www.oby.ro/os/
 - Nemizida: http://coderaiser.github.io/nemesis/
-- Windows 98: https://winworldpc.com/
-- Oberon: https://lists.inf.ethz.ch/pipermail/oberon/2013/006844.html
+- MS-DOS, Windows 95, 98, 2000: https://winworldpc.com/
+- Oberon: https://sourceforge.net/projects/nativeoberon/
+- ReactOS: https://reactos.org/
+- 9front: http://9front.org/
+- FreeBSD: https://www.freebsd.org/
+- OpenBSD: https://www.openbsd.org/
+- Haiku: https://www.haiku-os.org/get-haiku/r1beta2/
+- QNX: https://winworldpc.com/product/qnx/144mb-demo
+- BootChess: https://www.pouet.net/prod.php?which=64962
