@@ -9,6 +9,7 @@ Sources
 -
 
 - KolibriOS: http://kolibrios.org/en/download
+- Floppy Bird: https://github.com/icebreaker/floppybird
 - FreeDOS: http://www.freedos.org/
 - FreeDos software: http://www.freedos.org/software/ and http://www.pouet.net/prodlist.php
 - Linux:
